@@ -1,0 +1,23 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(255, 248, 225);
+}
+.kutu{
+    margin: auto;
+    width: 1000px;
+    height: 500px;
+    background-color:rgb(192, 222, 255);
+}
+img{
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+.yazi{
+
+    width: 700px;
+    height: 700px;
+    float: right;
+
+}
+
